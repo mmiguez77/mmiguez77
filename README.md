@@ -24,7 +24,6 @@ Me alegra que hayas llegado hasta este repositorio y puedas ver lo que he codead
 <li> Dart => Flutter </li>
 <li> GO </li>
   <li> TS </li>
-  <li> PHP </li>
   <li> Laravel </li>
 </ul>
 
