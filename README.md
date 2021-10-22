@@ -13,7 +13,8 @@ Me alegra que hayas llegado hasta este repositorio y puedas ver lo que he codead
   <li> PHP </li>
   <li> Python </li>
   <li> Express </li>
-  <li> Vue & React </li>
+  <li> Vue Js </li>
+  <li> React Js </li>
   <li> Node Js </li>
   <li> SQL, Mongodb, Firebase </li>
   <li> Bootstrap </li>
