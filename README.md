@@ -1,7 +1,7 @@
 # Hola 👋 soy Martin Miguez.
 </hr>
 
-Soy desarrollador Fullstack.
+Soy desarrollador :)
 </br>
 Me alegra que hayas llegado hasta este repositorio y puedas ver lo que he codeado y sobre lo que me encuentro trabajando...
 
