@@ -1,37 +1,36 @@
 # Hola 👋 soy Martin Miguez.
 </hr>
 
-Soy desarrollador :)
+Soy desarrollador
 </br>
-Me alegra que hayas llegado hasta este repositorio y puedas ver lo que he codeado y sobre lo que me encuentro trabajando...
+Bienvenido a mi repositorio. Acá se encuentra todo lo que he trabajado y sobre lo que me encuentro trabajando... siempre con la idea de seguir aprendiendo y sumando nuevas tecnologías.
 
-### Tecnologías que uso:
+### He aprendido:
 <ul>
 <li> HTML </li>
 <li> CSS </li>
-  <li> JS </li>
-  <li> PHP </li>
-  <li> Python </li>
-  <li> Express </li>
-  <li> Vue Js </li>
-  <li> React Js </li>
-  <li> Node Js </li>
-  <li> SQL, Mongodb, Firebase </li>
-  <li> Bootstrap </li>
+<li> JS </li>
+<li> React Js </li>
+<li> Node Js </li>
+<li> PHP </li>
+<li> Python </li>
+<li> Express </li>
+<li> Vue Js </li>
+<li> MySQL/MariaDB, Mongodb, Firebase </li>
+<li> Bootstrap </li>
 </ul>
 
-### Aprendiendo:
+### Aprendiendo y por aprender:
 <ul>
 <li> Dart => Flutter </li>
 <li> GO </li>
-  <li> TS </li>
-  <li> Laravel </li>
+<li> Next Js </li>
+<li> TS </li>
+<li> Laravel </li>
 </ul>
-
-
   
-  </br>
- </hr>
+</br>
+</hr>
  
  ### Sigamos en contacto: </br>
 <div> 
