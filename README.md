@@ -59,12 +59,13 @@ Con el tiempo se van sumando de a poco nuevos trabajos con otras tecnologías, s
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
 </a>
 
+</br>
 
 
- 
-<h2>Estemos en contacto</h2>
+
 <div> 
- <a href = "mailto:martinmiguez77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>
+  <h2>Quedemos en contacto</h2>
+  <a href = "mailto:martinmiguez77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>
   <a href="https://www.linkedin.com/in/martin-alejandro-miguez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
