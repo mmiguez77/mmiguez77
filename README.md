@@ -10,7 +10,7 @@
 
 <p> Bienvenido a mi repositorio.</p>
 <p> En este lugar se encuentran mi desarrollos a nivel personal y con acceso público.
-Con el tiempo se van sumando de a poco nuevos trabajos con otras tecnologías, siempre con las ganas de seguir aprendiendo y sumando.</p>
+Con el tiempo voy a ir agregando de a poco nuevos trabajos con otras tecnologías, siempre con las ganas de seguir aprendiendo y creciendo.</p>
 
 <h2>Tecnologías</h2>
 <a href="https://github.com/mmiguez77">
