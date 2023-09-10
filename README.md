@@ -65,7 +65,7 @@ Con el tiempo voy a ir agregando de a poco nuevos trabajos con otras tecnología
 
 <div> 
   <h2>Quedemos en contacto</h2>
-  <a href = "mailto:martinmiguez77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br>
+  <a href = "mailto:martinmiguez77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-right:20px"></a>
   <a href="https://www.linkedin.com/in/martin-alejandro-miguez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
