@@ -3,7 +3,7 @@
 
 <h3>Soy desarrollador y entusiasta de la tecnología</h3>
 <p>
-  <img src="https://firebasestorage.googleapis.com/v0/b/appp-8c406.appspot.com/o/lkn.png?alt=media&token=0a927e5e-708c-438d-813f-a0eba3581131](https://firebasestorage.googleapis.com/v0/b/linkedinpics-3a639.appspot.com/o/lkd.jpg?alt=media&token=9fdaf480-5f4b-4642-b5a5-9c90047639c4)" alt="img1" >
+  <img src="https://firebasestorage.googleapis.com/v0/b/linkedinpics-3a639.appspot.com/o/lkd.jpg?alt=media&token=9fdaf480-5f4b-4642-b5a5-9c90047639c4" alt="img1" >
 </p>
 
 </br>
