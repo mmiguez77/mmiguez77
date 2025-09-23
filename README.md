@@ -1,7 +1,7 @@
 # Hola, soy Martin Miguez 👋
 
 Desarrollador (JDE/Orchestrator + JS/React/Node + Flutter/Laravel) y músico.  
-Creo integraciones y automatizaciones para empresas (JDE Orchestrator + Groovy/FR/DR) y, en paralelo, productos propios como **Tinki Notes**.
+Genero integraciones y automatizaciones para empresas (JDE Orchestrator) y, en paralelo, productos propios con **Tinki**, mi marca personal.
 
 ---
 
