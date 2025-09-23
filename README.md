@@ -25,6 +25,14 @@ Creo integraciones y automatizaciones para empresas (JDE Orchestrator + Groovy/F
 
 ---
 
+## 🗺️ Cómo trabajo
+- **Iteración rápida**: MVP → feedback → mejoras.
+- **Código claro**: módulos pequeños, naming consistente, linters/formatters.
+- **Testing**: agrego tests al cerrar features críticas.
+- **Documetación**: cada repo tiene un README con pasos de setup y decisiones técnicas.
+  
+---
+
 ## 📨 Contacto
 <p>
   <a href="mailto:martinmiguez77@gmail.com">
@@ -34,11 +42,3 @@ Creo integraciones y automatizaciones para empresas (JDE Orchestrator + Groovy/F
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🗺️ Cómo trabajo
-- **Iteración rápida**: MVP → feedback → mejoras.
-- **Código claro**: módulos pequeños, naming consistente, linters/formatters.
-- **Testing**: agrego tests al cerrar features críticas.
-- **Documetación**: cada repo tiene un README con pasos de setup y decisiones técnicas.
