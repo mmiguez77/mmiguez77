@@ -15,7 +15,7 @@ Creo integraciones y automatizaciones para empresas (JDE Orchestrator + Groovy/F
 
 ### Frontend / Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,flutter,reacnative,tailwind&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,react,flutter,tailwind&perline=12" />
 </p>
 
 ### Backend
