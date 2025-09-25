@@ -1,6 +1,6 @@
 # Hola, soy Martin Miguez 👋
 
-Desarrollador (JDE/Orchestrator + JS/React/Node + Flutter/Laravel) y músico.  
+Desarrollador (JDE/Orchestrator + React/RN/Flutter + Node/Laravel) y músico.  
 Genero integraciones y automatizaciones para empresas (JDE Orchestrator) y, en paralelo, productos propios con **Tinki**, mi marca personal.
 
 ---
